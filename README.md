@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Suman</h1>
-<h3 align="center">A passionate frontend developer.when i'm not coding i'm either spending time with my family or enjoying with my friends.</h3>
+<h3 align="center">A passionate frontend developer. when i'm not coding i'm either spending time with my family or enjoying with my friends.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=suman2662021&label=Profile%20views&color=0e75b6&style=flat" alt="suman2662021" /> </p>
 
