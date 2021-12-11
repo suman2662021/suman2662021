@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/suman2662021](https://github.com/suman2662021)
 
-- 💬 Ask me about **C, Python, MERN**
+- 💬 Ask me about **MERN, C, Python**
 
 - 📫 How to reach me **sumanbale1110@gmail.com**
 
