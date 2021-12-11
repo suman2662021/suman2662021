@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=suman2662021&label=Profile%20views&color=0e75b6&style=flat" alt="suman2662021" /> </p>
 
-- 🔭 I’m currently working on [mobile_store_Backend](https://github.com/suman2662021/mobile_store_frontend.git)
+- 🔭 I’m currently working on [mobile_store_frontend](https://github.com/suman2662021/mobile_store_frontend.git)
 
 - 🌱 I’m currently learning **MERN Stack**
 
