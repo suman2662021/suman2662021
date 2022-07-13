@@ -13,6 +13,8 @@
 
 - 💬 Ask me about **MERN, C, Python**
 
+- 👯 I’m looking to collaborate on OpenSource Projects
+
 - 📫 How to reach me **sumanbale1110@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
