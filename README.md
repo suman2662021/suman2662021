@@ -54,7 +54,7 @@
     <img src="https://cultofthepartyparrot.com/parrots/hd/hypnoparrotdark.gif" width="30" height="30"/>
     <img src="https://cultofthepartyparrot.com/parrots/hd/mustacheparrot.gif" width="30" height="30"/>
 </div>
-<br />
+<br>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=suman2662021&show_icons=true&locale=en&layout=compact" alt="suman2662021" /></p>
 <br>
